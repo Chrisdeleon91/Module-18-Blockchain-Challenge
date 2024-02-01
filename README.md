@@ -16,11 +16,12 @@ I'm a fintech engineer who’s working at one of the five largest banks in the w
 
 ### Streamlit application page, highlighting blockchain that consists of multiple blocks
 
-![screenshot](https://github.com/Chrisdeleon91/Module-18-Blockchain-Challenge/assets/22796940/dcf68275-2ec3-4895-b760-49d0cfffd806)
+![screenshot](https://github.com/Chrisdeleon91/Module-18-Blockchain-Challenge/assets/22796940/283810e9-12d1-4c37-aa43-7a023f9d9d3c)
+
 
 ### Streamlit application page, highlighting the indication of the validity of the blockchain
 
-![valid screenshot](https://github.com/Chrisdeleon91/Module-18-Blockchain-Challenge/assets/22796940/37543b12-ef0e-49b8-97b0-f7145da15051)
+![valid screenshot](https://github.com/Chrisdeleon91/Module-18-Blockchain-Challenge/assets/22796940/2c801270-6f35-42de-9964-21afe29bab1a)
 
 
 ![Picture](https://www.columbia.edu/content/themes/custom/columbia/assets/img/cu-header.svg)
