@@ -1,0 +1,5 @@
+﻿,record,creator_id,prev_hash,timestamp,nonce
+0,Genesis,0,0,00:06:04,0
+1,"{'sender': 'Apple', 'receiver': 'Nvidia ', 'amount': '1000'}",42,ba90a0796cffebc6e2274befa569ea799b0b72fe6c4b5b4fd6acfc15c1853277,00:06:14,901
+2,"{'sender': 'Nvidia', 'receiver': 'AMD', 'amount': '2000'}",42,008387f0bd57b3522b0b5d0c4edd8bad89817209a53926e1395998380911f4cb,00:06:22,371
+3,"{'sender': 'Microsoft', 'receiver': 'X', 'amount': '4000'}",42,009e8d0780c15379b69eb480d666a27d176ef062c86aca2fa45784ccd48eb762,00:06:34,36
